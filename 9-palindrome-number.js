@@ -1,4 +1,4 @@
- 
+
 function isPalindrome(x) {
     // Check if the input number is negative
     if (x < 0) {
