@@ -15,3 +15,12 @@ function twoSum(nums, target) {
 
 // Call the function with an array and target sum, and print the output to the console
 console.log(twoSum([1, 2, 3, 4], 5)); // [0, 3]
+
+
+
+
+ 
+
+ 
+
+ 
